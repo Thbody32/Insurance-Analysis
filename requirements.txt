@@ -1,6 +1,6 @@
 streamlit
 pandas
 Pillow
-json
+orjson
 base64
 File_Parser
