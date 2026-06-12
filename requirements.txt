@@ -1,7 +1,5 @@
 streamlit
 pandas
 Pillow
-orjson
-base64
 File_Parser
 pybase64
