@@ -2,4 +2,4 @@ streamlit
 pandas
 Pillow
 pybase64
-orjson
+jsonschema
