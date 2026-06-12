@@ -3,3 +3,4 @@ pandas
 Pillow
 pybase64
 jsonschema
+fitz
