@@ -3,7 +3,7 @@ from PIL import Image
 import json
 import pandas as pd
 import base64
-from File_Parser.py import PolicyProcessor
+from File_Parser import PolicyProcessor
 
 # ==============================================================================
 # BUG FIX 1: Added a try-except block to prevent FileNotFoundError crashes
